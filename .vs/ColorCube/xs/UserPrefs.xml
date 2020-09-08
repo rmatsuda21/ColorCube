@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{6FA752E0-99F7-F9ED-2C1A-277BF770AFA3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ColorSelector.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FileManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CameraController.cs" />
+      <File FileName="Assets/Scripts/Manager.cs" />
+      <File FileName="Assets/Scripts/ColorSelector.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Pallete.cs" />
+      <File FileName="Assets/Scripts/MainMenu.cs" />
+      <File FileName="Assets/Scripts/MainUI.cs" />
+      <File FileName="Assets/Scripts/CreateMesh.cs" Line="23" Column="1" />
+      <File FileName="Assets/Scripts/titleCubes.cs" />
+      <File FileName="Assets/Scripts/TitleCube_Controller.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ColorCube" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Material" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="ColorSelector.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2acedd27-e19b-4742-89dc-962ec5ba2695" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
